@@ -1,0 +1,22 @@
+{
+    "name": "ambercreative/module-brandgraphql",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "jackie@ambercreative.sg",
+            "name": "Amber Creative"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ambercreative\\BrandGraphQl\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
