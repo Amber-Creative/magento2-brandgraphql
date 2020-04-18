@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Ambercreative\Brandgraphql\Model\Resolver;
+namespace Ambercreative\BrandGraphQl\Model\Resolver;
 
 use Magento\Catalog\Model\Product;
 use Magento\Framework\Exception\LocalizedException;
